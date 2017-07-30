@@ -1,5 +1,14 @@
 .DS_Store
 node_modules/
-dist/
 npm-debug.log
 .deploy
+CNAME
+deploy.sh
+package-lock.json
+resources
+webpack.config.js
+README.md
+node_modules
+package.json
+src
+yarn.lock
