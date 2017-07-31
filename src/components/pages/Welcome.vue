@@ -1,7 +1,7 @@
 <template>
   <div class="welcome-page page-content">
     <h1>Welcome</h1>
-    <h2>Find the best packages for your Vue app!</h2>
+    <h2>Find the best open source packages!</h2>
     <section class="image preview">
       <img src="~assets/preview.svg" width="500" height="300" />
     </section>

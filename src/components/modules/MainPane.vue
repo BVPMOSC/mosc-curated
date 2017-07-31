@@ -42,7 +42,7 @@
         <module v-for="module of displayModules" v-if="module" class="module" :key="module.id" :module="module" :class="{active: currentModuleDetailsId === module.id}"></module>
         <div v-if="!loading" class="suggestion" key="suggestion">
           <span>Not finding what you are looking for?</span>
-          <a href="https://github.com/vuejs/awesome-vue"><i class="material-icons">star</i> Browse more packages</a>
+          <a href="https://github.com/bvpmosc"><i class="material-icons">star</i> Browse more packages</a>
         </div>
       </transition-group>
 
