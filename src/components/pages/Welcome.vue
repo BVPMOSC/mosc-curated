@@ -6,12 +6,12 @@
       <img src="~assets/preview.svg" width="500" height="300" />
     </section>
     <section class="info">
-      Browse a curated list of high-quality <a href="https://vuejs.org/">Vue.js</a> packages that will help you build awesome apps.
+      Browse a curated list of high-quality open source packages that will help you build awesome apps.
     </section>
     <section class="actions">
-      <a href="https://github.com/vuejs/awesome-vue"><i class="material-icons">star</i> Browse more packages</a>
-      <a href="https://github.com/vuejs/vue-curated"><i class="material-icons">assistant</i> Submit a package</a>
-      <a href="https://github.com/vuejs/vue-curated-client"><i class="material-icons">edit</i> Contribute to the app</a>
+      <a href="https://github.com/bvpmosc"><i class="material-icons">star</i> Checkout BVPMOSC</a>
+      <a href="https://github.com/bvpmosc/mosc-curated-list"><i class="material-icons">assistant</i> Submit a package</a>
+      <a href="https://github.com/bvpmosc/mosc-curated"><i class="material-icons">edit</i> Contribute to the app</a>
     </section>
   </div>
 </template>
