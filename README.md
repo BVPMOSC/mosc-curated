@@ -1,8 +1,8 @@
-# MOSC-curated-client
+# mosc-curated
 
-> Curated MOSC packages.
+> Curated Open Source Packages and Tools.
 
-Consumes [mosc-curated](https://github.com/BVPMOSC/mosc-curated-list/master/PACKAGES.md) and needs [mosc-curated-server](https://github.com/BVPMOSC/mosc-curated-server).
+Consumes [mosc-curated-list](https://github.com/BVPMOSC/mosc-curated-list/master/PACKAGES.md) and needs [mosc-curated-server](https://github.com/BVPMOSC/mosc-curated-server).
 
 ## Build Setup
 
