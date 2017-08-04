@@ -1,8 +1,8 @@
-# vue-curated-client
+# MOSC-curated-client
 
-> Curated vue packages.
+> Curated MOSC packages.
 
-Consumes [vue-curated](https://github.com/vuejs/vue-curated/blob/master/PACKAGES.md) and needs [vue-curated-server](https://github.com/vuejs/vue-curated-server).
+Consumes [mosc-curated](https://github.com/BVPMOSC/mosc-curated-list/master/PACKAGES.md) and needs [mosc-curated-server](https://github.com/BVPMOSC/mosc-curated-server).
 
 ## Build Setup
 
